@@ -1,0 +1,26 @@
+{
+  "name": "webcraft",
+  "version": "1.0.0",
+  "description": "Make your web Simply",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webdeskme/WebCraft.git"
+  },
+  "keywords": [
+    "webcraft"
+  ],
+  "author": "Adam W. Telford",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Webdeskme/WebCraft/issues"
+  },
+  "homepage": "https://github.com/Webdeskme/WebCraft#readme",
+  "dependencies": {
+    "electron": "^11.2.0",
+    "express": "^4.17.1"
+  }
+}
